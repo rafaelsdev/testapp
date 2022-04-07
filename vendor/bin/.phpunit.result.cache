@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ASPTest\\UserTest::testAddUser":3,"ASPTest\\UserTest::testSetPassword":3},"times":{"ASPTest\\UserTest::testAddUser":0.035,"ASPTest\\UserTest::testSetPassword":0.072}}

@@ -1,0 +1,13 @@
+{
+    "require": {
+        "symfony/console": "^5.4",
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "ASPTest\\Command\\": "src/Command",
+            "ASPTest\\Controller\\":"src/Controller",
+            "ASPTest\\Model\\": "src/Model"
+        }
+    }
+}
